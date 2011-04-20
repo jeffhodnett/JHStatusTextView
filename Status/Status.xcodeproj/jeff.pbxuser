@@ -1,0 +1,221 @@
+// !$*UTF8*$!
+{
+	1F2F41CF135F85AA000C0DE9 /* Status */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Status;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1F2F41DF135F85CB000C0DE9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1F2F41E0135F85CB000C0DE9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F2F41E5135F862F000C0DE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F35D918135C4ADB005674B6 /* StatusAppDelegate.h */;
+		name = "StatusAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 401;
+		vrLoc = 0;
+	};
+	1F2F41E6135F862F000C0DE9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 1F35D911135C4ADB005674B6 /* Status-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/jeff/Desktop/Status/Status/Status/Status-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	1F2F41E7135F862F000C0DE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F35D915135C4ADB005674B6 /* Status-Prefix.pch */;
+		name = "Status-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	1F2F41E8135F862F000C0DE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F35D916135C4ADB005674B6 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	1F2F41E9135F862F000C0DE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F7614A9135DDF2400B00275 /* JHStatusTextView.h */;
+		name = "JHStatusTextView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	1F2F41EA135F862F000C0DE9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F35D91F135C4ADB005674B6 /* StatusViewController.m */;
+	};
+	1F2F41F6135F86EB000C0DE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F35D91F135C4ADB005674B6 /* StatusViewController.m */;
+		name = "StatusViewController.m: 54";
+		rLen = 0;
+		rLoc = 1247;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 780;
+	};
+	1F35D8FC135C4ADB005674B6 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1F2F41CF135F85AA000C0DE9 /* Status */;
+		activeTarget = 1F35D904135C4ADB005674B6 /* Status */;
+		codeSenseManager = 1F2F41E0135F85CB000C0DE9 /* Code sense */;
+		executables = (
+			1F2F41CF135F85AA000C0DE9 /* Status */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					293,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					253,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325027242;
+			PBXWorkspaceStateSaveDate = 325027242;
+		};
+		perUserProjectItems = {
+			1F2F41E5135F862F000C0DE9 /* PBXTextBookmark */ = 1F2F41E5135F862F000C0DE9 /* PBXTextBookmark */;
+			1F2F41E6135F862F000C0DE9 /* PlistBookmark */ = 1F2F41E6135F862F000C0DE9 /* PlistBookmark */;
+			1F2F41E7135F862F000C0DE9 /* PBXTextBookmark */ = 1F2F41E7135F862F000C0DE9 /* PBXTextBookmark */;
+			1F2F41E8135F862F000C0DE9 /* PBXTextBookmark */ = 1F2F41E8135F862F000C0DE9 /* PBXTextBookmark */;
+			1F2F41E9135F862F000C0DE9 /* PBXTextBookmark */ = 1F2F41E9135F862F000C0DE9 /* PBXTextBookmark */;
+			1F2F41EA135F862F000C0DE9 /* PBXBookmark */ = 1F2F41EA135F862F000C0DE9 /* PBXBookmark */;
+			1F2F41F6135F86EB000C0DE9 /* PBXTextBookmark */ = 1F2F41F6135F86EB000C0DE9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F2F41DF135F85CB000C0DE9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1F35D904135C4ADB005674B6 /* Status */ = {
+		activeExec = 0;
+		executables = (
+			1F2F41CF135F85AA000C0DE9 /* Status */,
+		);
+	};
+	1F35D915135C4ADB005674B6 /* Status-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	1F35D916135C4ADB005674B6 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {471, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 339}";
+		};
+	};
+	1F35D918135C4ADB005674B6 /* StatusAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 286}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 401}";
+		};
+	};
+	1F35D91F135C4ADB005674B6 /* StatusViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 780}}";
+			sepNavSelRange = "{1247, 0}";
+			sepNavVisRange = "{780, 533}";
+		};
+	};
+	1F7614A9135DDF2400B00275 /* JHStatusTextView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 468}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+}
